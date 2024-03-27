@@ -3,8 +3,8 @@
 	// Import Components
 	import Header from "$lib/components/header/Header.svelte";
 	import Footer from "$lib/components/footer/Footer.svelte";
-	// Import Style
-	// import './styles.css';
+	import "./global.css";
+	// import 'styles/global.css';
 
 </script>
 

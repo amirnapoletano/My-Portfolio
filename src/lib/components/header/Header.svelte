@@ -1,7 +1,7 @@
 <header class="blur">
 	<nav>
 		<a href="/" class="logo__link d-flex" on:click={closeNav}>
-			<div class="personal__logo">Matthijs Blauw</div>
+			<div class="personal__logo">Amir Amerian</div>
 		</a>
 
 		<div class="nav__menu nav__list">
@@ -13,7 +13,7 @@
 					<a href="#projects" class="nav__link nav__link--anchor link__hover-effect link__hover-effect--black">Projecten</a>
 				</li>
 				<li>
-					<a href="mailto:matthijs.blauw@gmail.com" class="nav__link nav__link--anchor nav__link--anchor-primary">Contact</a>
+					<a href="mailto:amirnapoletano@gmail.com" class="nav__link nav__link--anchor nav__link--anchor-primary">Contact</a>
 				</li>
 			</ul>
 		</div>
